@@ -25,6 +25,11 @@ sudo chmod +x /usr/local/bin/docker-compose
 sh start.sh
 ```
 
+## To access
+```
+localhost:8080
+```
+
 ## To stop
 ```sh
 sh stop.sh
